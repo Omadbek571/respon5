@@ -1,0 +1,24 @@
+.nav {
+  display: flex;
+  font-family: "Raleway", sans-serif;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 0;
+}
+.nav-ul {
+  display: flex;
+  gap: 40px;
+}
+.web-imgs {
+  display: flex;
+  gap: 15px;
+}
+.contacts {
+  font-family: "Courier New", Courier, monospace;
+  display: flex;
+  align-items: center;
+  gap: 11px;
+}
+.nav-yoqbuvchi {
+  display: none;
+}

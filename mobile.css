@@ -1,0 +1,75 @@
+@media (max-width: 1000px) {
+    .nav-yoqbuvchi {
+        display: block;
+    }
+
+    .link {
+        display: none;
+    }
+
+    .contacts {
+        display: none;
+    }
+
+    .web-imgs {
+        display: none;
+    }
+
+    .hero-title {
+        font-size: 45px;
+    }
+
+    .osnoving {
+        display: block;
+    }
+
+    .mobile-df {
+        display: flex;
+    }
+
+    .img1 {
+        width: 180px;
+    }
+
+    .ser-bos1 {
+        display: block;
+    }
+
+    .ser-bos2 {
+        display: none;
+    }
+
+    .ser1 {
+        margin-top: 50px;
+        display: flex;
+        align-items: center;
+        font-size: 25px;
+        gap: 45px;
+        justify-content: center;
+    }
+
+    .servises-title {
+        font-size: 35px
+    }
+
+    .box1 {
+        display: block;
+
+    }
+
+    .box1-text1 {
+        margin-top: 25px;
+    }
+
+    .box2 {
+        gap: 10px;
+    }
+
+    .bo2 {
+        display: none;
+    }
+
+    .imging2 {
+        display: none;
+    }
+};
