@@ -269,6 +269,73 @@ h3:hover {
   color: chocolate;
 }
 
+.plans {
+  width: 100%;
+  background: #3D4A39;
+  color: #fff;
+}
+
+.pl-box {
+  display: flex;
+  align-items: center;
+}
+
+.pl1-title {
+  font-weight: 600;
+  font-size: 46px;
+  line-height: 57.5px;
+  width: 413px;
+  font-family: "Raleway", sans-serif;
+  text-transform: uppercase;
+}
+
+.pl2 {
+  margin-left: auto;
+}
+
+.pl1-text1 {
+  max-width: 306px;
+  font-family: "Raleway", sans-serif;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 23px;
+  padding-top: 20px;
+}
+
+.input1 {
+  background: none;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  color: #fff;
+  width: 300px;
+  padding: 10px 10px;
+  margin-top: 40px;
+}
+
+.input-file {
+  width: 25px;
+  height: 25px;
+  background-color: darkgray;
+  display: block;
+}
+
+.lable1 {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+  color: darkgray;
+  font-size: 12px;
+}
+
+.pl1-text2 {
+  font-family: "Raleway", sans-serif;
+  font-size: 13px;
+  font-weight: 500;
+  line-height: 16px;
+  margin-top: 30px;
+}
+
 *,
 *:before,
 *:after {
@@ -394,4 +461,15 @@ h1 {
   background: chartreuse;
   color: black;
   font-weight: 500;
+}
+
+.btn {
+  margin-top: 20px;
+  width: 300px;
+  height: 60px;
+  background: #AE7B3C;
+  display: flex;
+  border: none;
+  justify-content: center;
+  align-items: center;
 }/*# sourceMappingURL=main.css.map */
