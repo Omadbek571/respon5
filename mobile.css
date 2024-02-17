@@ -28,7 +28,7 @@
     }
 
     .img1 {
-        width: 180px;
+        width: 150px;
     }
 
     .ser-bos1 {
@@ -83,8 +83,72 @@
 
     .pl2-img1 {
         margin-top: 50px;
-        width: 380px;
+        width: 350px;
     }
+
+    .etp-title {
+        font-size: 30px
+    }
+
+    .etap-df {
+        display: block;
+        justify-content: center;
+    }
+
+    .etp1 {
+        margin-top: 50px;
+    }
+
+    .zar1 {
+        display: block;
+        align-items: center;
+    }
+
+    .img4-zar {
+        display: none;
+    }
+
+    .zaraz-title {
+        font-size: 30px
+    }
+
+    .img4-zar1 {
+        width: 330px;
+    }
+
+    .pod1-img {
+        display: none;
+    }
+
+    .pod1-btn {
+        display: flex;
+        justify-content: center;
+    }
+
+    .partniyor-imging {
+        display: block;
+        justify-content: center;
+    }
+
+    .partniyor-title {
+        font-size: 30px
+    }
+
+    .ohir-df {
+        display: block;
+    }
+
+    .ohir2 {
+        display: none;
+    }
+
+    .foter-img {
+        display: none;
+    }
+
+
+
+
 }
 
 ;

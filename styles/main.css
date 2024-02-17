@@ -104,6 +104,20 @@ a {
   margin-right: auto;
 }
 
+.foot-df {
+  display: flex;
+  gap: 38px;
+  justify-content: center;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.end-footer {
+  display: flex;
+  justify-content: space-between;
+  color: darkgray;
+}
+
 .osnova {
   margin-top: 140px;
   display: block;
@@ -271,7 +285,7 @@ h3:hover {
 
 .plans {
   width: 100%;
-  background: #3D4A39;
+  background: #3d4a39;
   color: #fff;
 }
 
@@ -334,6 +348,183 @@ h3:hover {
   font-weight: 500;
   line-height: 16px;
   margin-top: 30px;
+}
+
+.etp-title {
+  display: flex;
+  justify-content: center;
+  margin-top: 140px;
+  font-weight: 600;
+  font-size: 46px;
+  font-family: "Raleway", sans-serif;
+  text-transform: uppercase;
+}
+
+.etp1-text1 {
+  font-weight: 600;
+  color: black;
+  font-size: 20px;
+  border: 2px darkgray solid;
+  display: inline-block;
+  border-radius: 50px;
+  padding: 13px 18px;
+  margin-bottom: 20px;
+}
+
+.etp1-text2 {
+  color: rgb(40, 43, 34);
+  font-family: "Raleway", sans-serif;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 100%;
+}
+
+.etp1-text3 {
+  max-width: 240px;
+  color: rgb(40, 43, 34);
+  font-family: "Raleway", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 145%;
+  letter-spacing: 0%;
+  opacity: 0.8;
+  margin-top: 12px;
+}
+
+.etap-df {
+  margin-top: 80px;
+  display: flex;
+  gap: 80px;
+  justify-content: center;
+}
+
+.hr3 {
+  margin-top: 100px;
+}
+
+.zaraz {
+  margin-top: 80px;
+}
+
+.zaraz-title {
+  display: flex;
+  justify-content: center;
+  margin-top: 140px;
+  font-weight: 600;
+  font-size: 46px;
+  font-family: "Raleway", sans-serif;
+  text-transform: uppercase;
+}
+
+.zar1 {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+}
+
+.zar1-text1 {
+  margin-top: 15px;
+  display: flex;
+  justify-content: center;
+  color: rgb(40, 43, 34);
+  font-family: Raleway;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 100%;
+  letter-spacing: 0%;
+}
+
+.podarok {
+  margin-top: 150px;
+  width: 100%;
+  background: rgb(243, 243, 243);
+}
+
+.pod {
+  display: flex;
+  justify-content: center;
+  gap: 130px;
+}
+
+.pod1-title {
+  width: 362px;
+  color: rgb(40, 43, 34);
+  font-family: "Raleway", sans-serif;
+  font-size: 46px;
+  font-weight: 600;
+  line-height: 125%;
+  letter-spacing: 0%;
+  text-align: center;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+}
+
+.pod1-texting {
+  justify-content: center;
+}
+
+.pod1-text1 {
+  color: rgb(40, 43, 34);
+  font-family: "Raleway", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 135%;
+  letter-spacing: 0%;
+  text-align: center;
+  width: 355px;
+  margin-bottom: 20px;
+}
+
+.pod1-btn {
+  margin-left: 70px;
+  color: #fff;
+  width: 260px;
+  box-shadow: 0px 20px 25px 0px rgba(0, 0, 0, 0.05);
+  background: rgb(174, 123, 60);
+  padding: 22px 22px;
+  text-align: center;
+}
+
+.partniyor {
+  margin-top: 140px;
+}
+
+.partniyor-title {
+  display: flex;
+  justify-content: center;
+  color: rgb(40, 43, 34);
+  font-family: Raleway;
+  font-size: 46px;
+  font-weight: 600;
+  line-height: 125%;
+  letter-spacing: 0%;
+  text-transform: uppercase;
+}
+
+.partniyor-imging {
+  display: flex;
+  margin-top: 60px;
+  justify-content: center;
+  margin-bottom: 150px;
+  gap: 20px;
+}
+
+.oh1 {
+  display: flex;
+  gap: 10px;
+}
+
+.main-ohiri {
+  margin-top: 100px;
+}
+
+.ohir-df {
+  display: flex;
+  justify-content: space-between;
+}
+
+.ohir2-text1:hover {
+  color: chocolate;
 }
 
 *,
@@ -467,9 +658,10 @@ h1 {
   margin-top: 20px;
   width: 300px;
   height: 60px;
-  background: #AE7B3C;
+  background: #ae7b3c;
   display: flex;
   border: none;
   justify-content: center;
   align-items: center;
+  color: #fff;
 }/*# sourceMappingURL=main.css.map */
